@@ -13,7 +13,7 @@ from siuba import *
 
 
 #%%
-ruta = "C:\\Users\\hp master\\Documents\\SciData\\23_ML_Py"
+ruta = "https://raw.githubusercontent.com/scidatmath2020/ML_Py_23/main/data/datos_regresion.csv"
 mi_tabla = pd.read_csv(ruta)
 
 mi_tabla
